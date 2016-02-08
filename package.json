@@ -1,0 +1,30 @@
+{
+  "name": "array-intersectional-complement-linear",
+  "version": "1.0.0",
+  "description": "Returns the items two arrays do not share",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js --cov"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefflembeck/array-intersectional-complement-linear.git"
+  },
+  "engines": {
+    "node": ">=4.0"
+  },
+  "keywords": [
+    "array",
+    "set",
+    "intersection"
+  ],
+  "author": "Jeffrey M. Lembeck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jefflembeck/array-intersectional-complement-linear/issues"
+  },
+  "homepage": "https://github.com/jefflembeck/array-intersectional-complement-linear#readme",
+  "devDependencies": {
+    "tap": "^5.4.2"
+  }
+}
